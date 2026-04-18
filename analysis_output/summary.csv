@@ -1,0 +1,12 @@
+Metric,Value
+Total judgements (rows),360
+Total individual verdicts (AB + BA),720
+Swap-consistent rate,70.6%
+Format leakage rate (any),100.0%
+Chose 2nd position (position bias),63.9%
+Position bias p-value,8.395e-14
+Sig. comparisons after Bonferroni,10/18
+Cohen's κ (overall),0.548
+Swap-inconsistent cases,106
+Cross-judge disagreements,45
+Longer-response wins rate,76.1%
